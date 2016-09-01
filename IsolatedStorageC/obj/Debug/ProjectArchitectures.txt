@@ -1,0 +1,1 @@
+c:\users\jomziii\documents\visual studio 2013\Projects\IsolatedStorageC\IsolatedStorageC\IsolatedStorageC.csproj;neutral
